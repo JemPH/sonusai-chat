@@ -5,7 +5,8 @@
 
 A beautiful, responsive web interface for SonusAI chatbot services with real-time streaming responses, code syntax highlighting, and LaTeX math rendering support.
 
-![SonusAI Preview](https://via.placeholder.com/800x400?text=SonusAI+Chat+Interface)
+![msedge_lvAgiSWQJU](https://github.com/user-attachments/assets/094dc238-4b8e-4679-9084-e86fbc8ecafd)
+
 
 ## ✨ Features
 
